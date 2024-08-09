@@ -16,6 +16,7 @@
 ## **Sobre**
 
 <br>
+
 - Estatístico pela UnB;
 
 - Perfil [Linkedin](https://www.linkedin.com/in/artur-carvalho-de-medeiros/);
