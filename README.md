@@ -1,6 +1,8 @@
 
 <h1 align="center"><b>Olá, eu sou o Artur </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Artur+Carvalho+de+Medeiros..;++;Estatístico,;Cientista+de+dados,;Em+busca+de+novos+conhecimentos"></a>
 </p>
@@ -52,4 +54,4 @@
 
 ---
 
-Last Edited on: 09/08/2024
+Última Edição: 09/08/2024
