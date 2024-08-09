@@ -1,16 +1,16 @@
-## Hi there 👋
+ # <a href="linkedin.com/in/artur-carvalho-de-medeiros">Artur Carvalho de Medeiros</a> :smiley:
+ 
+<a href="linkedin.com/in/artur-carvalho-de-medeiros">
+  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ArturCarv">
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-<!--
-**ArturCarv/ArturCarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+Estatístico /Cientista de Dados/ Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Me chamo Artur, sou estatístico formado pela Unb e tenho um grande apreço pela área. Considero-me dedicado, comunicativo e proativo no âmbito pessoal e profissional, além disso, possuo experiência de mercado desde quando estava na graduação, o que me amadureceu como pessoa e como profissional. Busco agora uma oportunidade que me permita flexibilidade e mais aprendizagem,de forma contínua, para que prossiga lapidando-me em ambos os sentidos e, evidentemente, alinhado às perspectivas do meu local de trabalho.
