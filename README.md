@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Artur%20Carvalho%20de%20Medeiros&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Estatístico%20%7C%20Data%20Analyst%20%7C%20BI%20Developer&descAlignY=60&descColor=a8dadc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Artur%20Carvalho%20de%20Medeiros&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estatístico%20%7C%20Data%20Analyst%20%7C%20BI%20Developer&descAlignY=60&descColor=a8dadc&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=720&lines=Estatístico+pela+UnB+🎓;5%2B+anos+em+análise+de+dados+e+BI;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+Oracle+APEX;Construo+sistemas+e+conto+histórias+com+dados)](https://git.io/typing-svg)
 
