@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Artur%20Carvalho&fontSize=50&fontColor=e94560&fontAlignY=40&desc=Estatístico%20%7C%20Cientista%20de%20Dados&descAlignY=62&descColor=a8dadc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Artur%20Carvalho%20de%20Medeiros&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Estatístico%20%7C%20Data%20Analyst%20%7C%20BI%20Developer&descAlignY=60&descColor=a8dadc&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Estatístico+pela+UnB+%F0%9F%8E%93;Especialista+em+Psicometria+%F0%9F%A7%A0;Análise+de+Dados+em+Saúde+%F0%9F%8F%A5;R+%7C+Python+%7C+MySQL+%7C+LaTeX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=720&lines=Estatístico+pela+UnB+🎓;5%2B+anos+em+análise+de+dados+e+BI;Python+%7C+R+%7C+SQL+%7C+Power+BI+%7C+Oracle+APEX;Construo+sistemas+e+conto+histórias+com+dados)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-carvalho-de-medeiros/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturCarv)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.medeiros@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.carvalhom2@gmail.com)
+[![AM Análises](https://img.shields.io/badge/AM_Análises-Consultoria-1A162D?style=for-the-badge&logo=r&logoColor=75AADB)](https://arturcarv.github.io/AM_Analises/)
+[![Currículo PDF](https://img.shields.io/badge/Currículo-PDF-FF2D20?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Artur_Carvalho_Medeiros_CV.pdf)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArturCarv&label=Visitas%20no%20perfil&color=e94560&style=flat-square)
 
 </div>
 
@@ -14,41 +17,107 @@
 
 ## 👤 Sobre Mim
 
-```r
-artur <- list(
-  formacao    = "Estatística – Universidade de Brasília (UnB)",
-  interesses  = c("Psicometria", "Estatística Aplicada à Saúde",
-                  "Análise de Dados", "Machine Learning"),
-  situacao    = "Aberto a oportunidades 🚀",
-  idiomas     = c("Português (nativo)", "Inglês (intermediário)")
-)
+```python
+artur = {
+    "formacao":     "Bacharelado em Estatística — Universidade de Brasília (UnB)",
+    "atual":        "Estatístico @ ANTAQ — Agência Nacional de Transportes Aquaviários",
+    "experiencia":  "5+ anos em análise de dados, BI e desenvolvimento de produtos de dados",
+    "perfil":       "Híbrido — domínio estatístico + capacidade full-stack",
+    "interesses":   ["People Analytics", "Estatística em Saúde", "Psicometria",
+                     "Machine Learning", "Sistemas de Informação"],
+    "localizacao":  "Brasília, DF 🇧🇷",
+    "idiomas":      ["Português 🇧🇷", "Inglês 🇬🇧", "Espanhol 🇪🇸", "Italiano 🇮🇹"],
+    "status":       "Aberto a oportunidades e parcerias 🚀"
+}
 ```
 
-Sou **Estatístico** formado pela **Universidade de Brasília (UnB)**, com foco em **Psicometria** e **Estatística aplicada à Saúde**. Tenho experiência em análise de dados, modelagem estatística e comunicação de resultados por meio de relatórios e visualizações. Busco atuar em projetos que impactem positivamente pessoas por meio de dados.
+Sou **Estatístico pela UnB** com mais de **5 anos de experiência** combinando **análise de dados** e **desenvolvimento de sistemas de informação**. Já atuei em órgãos públicos federais de grande porte — **ANTAQ, Ministério dos Transportes, INEP, STJ, MDS e CODEPLAN** — entregando desde dashboards e relatórios oficiais até **sistemas full-stack utilizados por mais de 100 empresas**.
+
+Tenho interesse especial em **People Analytics** e em projetos que conectam **dados e pessoas**.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Stack Técnica
 
 <div align="center">
 
 ### Linguagens & Análise de Dados
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Ferramentas de Produtividade & Relatórios
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![RMarkdown](https://img.shields.io/badge/R_Markdown-75AADB?style=for-the-badge&logo=r&logoColor=white)
+### BI, Visualização & Dashboards
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Shiny](https://img.shields.io/badge/Shiny-1A1A1A?style=for-the-badge&logo=rstudioide&logoColor=75AADB)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Bibliotecas Favoritas (R & Python)
+### Bibliotecas Python & R
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-FC5185?style=for-the-badge&logo=r&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Banco de Dados & Ferramentas
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1F60FF?style=for-the-badge&logoColor=white)
+
+### Estatística & ML
+`Regressão Linear & Logística` · `Clusterização` · `PCA` · `NLP`
+`Testes não-paramétricos (Kruskal-Wallis · Mann-Whitney · Shapiro-Wilk)` · `Psicometria`
 
 </div>
+
+---
+
+## 💼 Experiência Profissional
+
+| Período | Organização | Cargo |
+|---|---|---|
+| **set/2024 — atual** | **ANTAQ** — Agência Nacional de Transportes Aquaviários | Estatístico |
+| abr/2024 — set/2024 | **Ministério dos Transportes** | Analista de Dados (Líder de equipe) |
+| jan/2024 — abr/2024 | **INEP** — Inst. Nac. de Estudos e Pesquisas Educacionais | Analista de Dados |
+| nov/2023 — jan/2024 | **Colégio Ideal** | Analista Comercial & Dados |
+| mai/2023 — dez/2023 | **STJ** — Superior Tribunal de Justiça | Estagiário — RH Analytics |
+| jan/2023 — abr/2023 | **MDS** — Ministério do Desenvolvimento Social | Estagiário |
+| jan/2022 — dez/2023 | **ESTAT Consultoria — UnB** | Gerente Comercial |
+| jan/2021 — ago/2022 | **CODEPLAN** — Cia. de Planejamento do DF | Estagiário de Estatística |
+
+> 🔎 **Destaques:** desenvolveu do zero os sistemas **SISPAT** e **SAI** na ANTAQ (Oracle APEX, +27 tabelas, 28 telas, API REST e IA integrada), liderou equipe de 4 analistas no Min. dos Transportes, validou bases do **SAEB 2023** no INEP e construiu pipelines de **NLP + clusterização** para o Diagnóstico de Competências (~300 gestores) no STJ.
+
+📄 **[Baixar currículo completo em PDF](./assets/Artur_Carvalho_Medeiros_CV.pdf)**
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+[![AM Análises](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=AM_Analises&theme=tokyonight&hide_border=true)](https://arturcarv.github.io/AM_Analises/)
+[![TCC](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=Trabalho-de-Conclus-o-de-Curso&theme=tokyonight&hide_border=true)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+
+</div>
+
+### 🩺 [AM Análises — Consultoria Estatística para Saúde](https://arturcarv.github.io/AM_Analises/)
+Consultoria estatística especializada em **profissionais e estudantes da área da saúde**. Atendimento para **TCCs, residências, validação de instrumentos** (escalas, questionários, análise fatorial) e **pesquisas clínicas/epidemiológicas**.
+**Stack:** R · SPSS · Python · `t-test` · `ANOVA` · `Regressão Logística` · `Análise de Sobrevivência`
+**Diferencial:** rigor metodológico com explicações em linguagem acessível.
+🌐 **Site:** [arturcarv.github.io/AM_Analises](https://arturcarv.github.io/AM_Analises/)
+
+### 🎓 [Trabalho de Conclusão de Curso (TCC) — UnB](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+Análise estatística aplicada desenvolvida em **R** como TCC do Bacharelado em Estatística pela UnB. Aborda modelagem, análise exploratória e testes de hipótese com aplicações práticas.
 
 ---
 
@@ -56,64 +125,39 @@ Sou **Estatístico** formado pela **Universidade de Brasília (UnB)**, com foco 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArturCarv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-<div align="center">
-
-[![TCC](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=Trabalho-de-Conclus-o-de-Curso&theme=tokyonight&hide_border=true)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
-[![AM_Analises](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=AM_Analises&theme=tokyonight&hide_border=true)](https://github.com/ArturCarv/AM_Analises)
-
-</div>
-
-### 🔬 Trabalho de Conclusão de Curso (TCC)
-> Análise estatística aplicada em **R**, desenvolvida como TCC no curso de Estatística pela UnB. O trabalho aborda métodos de modelagem, análise exploratória e testes de hipótese com foco em aplicações práticas.
-
-### 📈 AM_Analises
-> Repositório de análises diversas com visualizações e relatórios produzidos em R/HTML — demonstrando habilidades em comunicação de resultados e exploração de dados reais.
-
----
-
-## 🎓 Formação
-
-| Grau | Curso | Instituição | Ano |
-|------|-------|-------------|-----|
-| 🎓 Bacharel | Estatística | Universidade de Brasília – UnB | 2024 |
-
----
-
-## 🔍 Áreas de Interesse
-
-<div align="center">
-
-```
-📊 Psicometria          🏥 Estatística em Saúde     🤖 Machine Learning
-📉 Modelos Preditivos   📋 Análise Exploratória      📝 Relatórios Científicos
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArturCarv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📫 Contato
+## 🎓 Formação & Idiomas
+
+| 🎓 Formação | Instituição | Período |
+|---|---|---|
+| Bacharelado em **Estatística** | Universidade de Brasília — UnB | 2019 – 2023 |
+
+**Atividades acadêmicas:** Monitor de Probabilidade I e Estatística · Ministrou curso de Estatística Básica para a equipe de inovação da **Ambev** · Pesquisador na PDAD/CODEPLAN.
+
+**Idiomas:** 🇧🇷 Português (nativo) · 🇬🇧 Inglês (intermediário) · 🇪🇸 Espanhol (intermediário) · 🇮🇹 Italiano (intermediário)
+
+---
+
+## 📫 Vamos conversar?
 
 <div align="center">
 
-Fique à vontade para me contatar pelo [LinkedIn](https://www.linkedin.com/in/artur-carvalho-de-medeiros/) ou abrir uma *issue* em qualquer repositório. Estou sempre aberto a conversas sobre dados, saúde e estatística!
+Estou aberto a **oportunidades em People Analytics, Data Science, BI** e **parcerias de consultoria estatística** pela [AM Análises](https://arturcarv.github.io/AM_Analises/).
 
-**"Sem dados, você é apenas mais uma pessoa com uma opinião."** — W. Edwards Deming
+[![LinkedIn](https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-carvalho-de-medeiros/)
+[![Email](https://img.shields.io/badge/-artur.carvalhom2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.carvalhom2@gmail.com)
+
+> *"Sem dados, você é apenas mais uma pessoa com uma opinião."* — **W. Edwards Deming**
 
 </div>
 
