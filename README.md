@@ -105,8 +105,8 @@ Tenho interesse especial em **People Analytics** e em projetos que conectam **da
 
 <div align="center">
 
-[![AM Análises](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=AM_Analises&theme=tokyonight&hide_border=true)](https://arturcarv.github.io/AM_Analises/)
-[![TCC](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=Trabalho-de-Conclus-o-de-Curso&theme=tokyonight&hide_border=true)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+[![AM Análises](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=AM_Analises&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)](https://arturcarv.github.io/AM_Analises/)
+[![TCC](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=Trabalho-de-Conclus-o-de-Curso&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
 
 </div>
 
@@ -125,12 +125,12 @@ Análise estatística aplicada desenvolvida em **R** como TCC do Bacharelado em 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&v=2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2" />
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArturCarv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArturCarv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
