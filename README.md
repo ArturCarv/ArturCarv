@@ -103,34 +103,38 @@ Tenho interesse especial em **People Analytics** e em projetos que conectam **da
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+### 🩺 AM Análises — Consultoria Estatística para Saúde
 
-[![AM Análises](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=AM_Analises&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)](https://arturcarv.github.io/AM_Analises/)
-[![TCC](https://github-readme-stats.vercel.app/api/pin/?username=ArturCarv&repo=Trabalho-de-Conclus-o-de-Curso&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+[![Repo](https://img.shields.io/badge/GitHub-AM__Analises-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ArturCarv/AM_Analises)
+[![Site](https://img.shields.io/badge/🌐_Site-arturcarv.github.io/AM__Analises-FC5185?style=for-the-badge&labelColor=1a1a2e)](https://arturcarv.github.io/AM_Analises/)
+[![Stars](https://img.shields.io/github/stars/ArturCarv/AM_Analises?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e)](https://github.com/ArturCarv/AM_Analises/stargazers)
+[![Top Language](https://img.shields.io/github/languages/top/ArturCarv/AM_Analises?style=for-the-badge&color=276DC3&labelColor=1a1a2e)](https://github.com/ArturCarv/AM_Analises)
+[![Last Commit](https://img.shields.io/github/last-commit/ArturCarv/AM_Analises?style=for-the-badge&logo=git&color=a8dadc&labelColor=1a1a2e)](https://github.com/ArturCarv/AM_Analises/commits)
 
-</div>
-
-### 🩺 [AM Análises — Consultoria Estatística para Saúde](https://arturcarv.github.io/AM_Analises/)
 Consultoria estatística especializada em **profissionais e estudantes da área da saúde**. Atendimento para **TCCs, residências, validação de instrumentos** (escalas, questionários, análise fatorial) e **pesquisas clínicas/epidemiológicas**.
 **Stack:** R · SPSS · Python · `t-test` · `ANOVA` · `Regressão Logística` · `Análise de Sobrevivência`
 **Diferencial:** rigor metodológico com explicações em linguagem acessível.
-🌐 **Site:** [arturcarv.github.io/AM_Analises](https://arturcarv.github.io/AM_Analises/)
 
-### 🎓 [Trabalho de Conclusão de Curso (TCC) — UnB](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+---
+
+### 🎓 Trabalho de Conclusão de Curso (TCC) — UnB
+
+[![Repo](https://img.shields.io/badge/GitHub-TCC-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+[![Stars](https://img.shields.io/github/stars/ArturCarv/Trabalho-de-Conclus-o-de-Curso?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso/stargazers)
+[![Top Language](https://img.shields.io/github/languages/top/ArturCarv/Trabalho-de-Conclus-o-de-Curso?style=for-the-badge&color=276DC3&labelColor=1a1a2e)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso)
+[![Last Commit](https://img.shields.io/github/last-commit/ArturCarv/Trabalho-de-Conclus-o-de-Curso?style=for-the-badge&logo=git&color=a8dadc&labelColor=1a1a2e)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso/commits)
+
 Análise estatística aplicada desenvolvida em **R** como TCC do Bacharelado em Estatística pela UnB. Aborda modelagem, análise exploratória e testes de hipótese com aplicações práticas.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub em Números
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCarv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&v=2" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCarv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2" />
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArturCarv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![Followers](https://img.shields.io/github/followers/ArturCarv?style=for-the-badge&logo=github&label=Seguidores&color=e94560&labelColor=1a1a2e)](https://github.com/ArturCarv?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ArturCarv?affiliations=OWNER&style=for-the-badge&logo=star&label=Stars%20Recebidas&color=FFD700&labelColor=1a1a2e)](https://github.com/ArturCarv?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositórios&color=a8dadc&labelColor=1a1a2e&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArturCarv)](https://github.com/ArturCarv?tab=repositories)
 
 </div>
 
