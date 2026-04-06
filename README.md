@@ -9,8 +9,6 @@
 [![AM Análises](https://img.shields.io/badge/AM_Análises-Consultoria-1A162D?style=for-the-badge&logo=r&logoColor=75AADB)](https://arturcarv.github.io/AM_Analises/)
 [![Currículo PDF](https://img.shields.io/badge/Currículo-PDF-FF2D20?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Artur_Carvalho_Medeiros_CV.pdf)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArturCarv&label=Visitas%20no%20perfil&color=e94560&style=flat-square)
-
 </div>
 
 ---
@@ -125,18 +123,6 @@ Consultoria estatística especializada em **profissionais e estudantes da área 
 [![Last Commit](https://img.shields.io/github/last-commit/ArturCarv/Trabalho-de-Conclus-o-de-Curso?style=for-the-badge&logo=git&color=a8dadc&labelColor=1a1a2e)](https://github.com/ArturCarv/Trabalho-de-Conclus-o-de-Curso/commits)
 
 Análise estatística aplicada desenvolvida em **R** como TCC do Bacharelado em Estatística pela UnB. Aborda modelagem, análise exploratória e testes de hipótese com aplicações práticas.
-
----
-
-## 📊 GitHub em Números
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/ArturCarv?style=for-the-badge&logo=github&label=Seguidores&color=e94560&labelColor=1a1a2e)](https://github.com/ArturCarv?tab=followers)
-[![Stars](https://img.shields.io/github/stars/ArturCarv?affiliations=OWNER&style=for-the-badge&logo=star&label=Stars%20Recebidas&color=FFD700&labelColor=1a1a2e)](https://github.com/ArturCarv?tab=repositories)
-[![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repositórios&color=a8dadc&labelColor=1a1a2e&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FArturCarv)](https://github.com/ArturCarv?tab=repositories)
-
-</div>
 
 ---
 
